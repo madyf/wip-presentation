@@ -27,21 +27,21 @@ title: ThreeJS presentation
 ---
 <!---->
 # Use Cases
-<iframe src="https://particle-love.com/" height=100% loading="eager"></iframe>
+<iframe src="https://particle-love.com/" height=100% ></iframe>
 
 ---
 
-<iframe src="https://bruno-simon.com/"height=100% loading="eager"></iframe>
+<iframe src="https://bruno-simon.com/"height=100% ></iframe>
 
 ---
 
-<iframe src="http://goinghome.302chanwoo.com/"height=100% loading="eager"></iframe>
+<iframe src="http://www.ashortjourney.com/"height=100% ></iframe>
 
 ---
 
 # Usage
 
-<iframe src="https://codepen.io/madyf/embed/KKBLeGd"height=100% loading="eager"></iframe>
+<iframe src="https://codepen.io/madyf/embed/KKBLeGd"height=100% ></iframe>
 
 ---
 <style>
@@ -56,4 +56,4 @@ title: ThreeJS presentation
 - https://particle-love.com/
 - https://bruno-simon.com/
 - https://helloenjoy.itch.io/hellorun
-- http://goinghome.302chanwoo.com/
+- http://www.ashortjourney.com/
