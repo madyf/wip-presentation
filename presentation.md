@@ -20,13 +20,34 @@ title: ThreeJS presentation
 
 ---
 
+# What is it?
+
+- Possible because of WebGL
+  - Low-Level graphics API for the web
+  - Take advantage of your GPU
+- Create and display animated 3D computer graphics
+- JS library and API
+---
+
 # Browser Compatibility
 
 <img src="./compatibility.png" width=100%>
 
 ---
-<!---->
+
 # Use Cases
+
+- Personal Portfolio
+- Interactive Storytelling
+- Showcase 3D Models
+- Web Based Games
+- Audio Visualization
+- Simulations
+- VR
+  
+---
+
+
 <iframe src="https://particle-love.com/" height=100% ></iframe>
 
 ---
@@ -35,7 +56,7 @@ title: ThreeJS presentation
 
 ---
 
-<iframe src="https://renaultespace.littleworkshop.fr/"height=100% ></iframe>
+<iframe src="https://astro-surfeur-test2.web.app/"height=100% ></iframe>
 
 ---
 
@@ -57,3 +78,4 @@ title: ThreeJS presentation
 - https://jesse-zhou.com/
 - https://helloenjoy.itch.io/hellorun
 - https://renaultespace.littleworkshop.fr/
+- https://astro-surfeur-test2.web.app/
