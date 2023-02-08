@@ -31,7 +31,7 @@ title: ThreeJS presentation
 
 ---
 
-<iframe src="https://bruno-simon.com/"height=100% ></iframe>
+<iframe src="https://jesse-zhou.com/"height=100% ></iframe>
 
 ---
 
@@ -54,6 +54,6 @@ title: ThreeJS presentation
 
 - https://threejs.org/
 - https://particle-love.com/
-- https://bruno-simon.com/
+- https://jesse-zhou.com/
 - https://helloenjoy.itch.io/hellorun
 - https://renaultespace.littleworkshop.fr/
